@@ -1,0 +1,38 @@
+ [
+  {
+    "name": "Neil Sims",
+    "email": "hello@gmail.com",
+    "price": "367",
+    "profile": "/images/Avatar (1).png"
+  },
+  {
+    "name": "Bonnie Green",
+    "email": "hello@gmail.com",
+    "price": "67",
+    "profile": "/images/Avatar (2).png"
+  },
+  {
+    "name": "Micheal Gough",
+    "email": "hello@gmail.com",
+    "price": "3467",
+    "profile": "/images/Avatar (3).png"
+  },
+  {
+    "name": "Thomas Lean",
+    "email": "hello@gmail.com",
+    "price": "2367",
+    "profile": "/images/Avatar (4).png"
+  },
+  {
+    "name": "Lana Byrd",
+    "email": "hello@gmail.com",
+    "price": "367",
+    "profile": "/images/Avatar (5).png"
+  },
+  {
+    "name": "Karen Nelson",
+    "email": "hello@gmail.com",
+    "price": "1367",
+    "profile": "/images/Avatar (6).png"
+  }
+]
